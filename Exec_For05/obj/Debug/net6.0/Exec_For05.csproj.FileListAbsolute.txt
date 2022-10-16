@@ -1,0 +1,15 @@
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/bin/Debug/net6.0/Exec_For05
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/bin/Debug/net6.0/Exec_For05.deps.json
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/bin/Debug/net6.0/Exec_For05.runtimeconfig.json
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/bin/Debug/net6.0/Exec_For05.dll
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/bin/Debug/net6.0/Exec_For05.pdb
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.csproj.AssemblyReference.cache
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.AssemblyInfoInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.AssemblyInfo.cs
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.csproj.CoreCompileInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.dll
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/refint/Exec_For05.dll
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.pdb
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/Exec_For05.genruntimeconfig.cache
+/Users/jiangyiru/Desktop/practice/Exec_For05/Exec_For05/obj/Debug/net6.0/ref/Exec_For05.dll
